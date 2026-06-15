@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b3a67,100:4a90d9&height=180&section=header&text=Kazuya%20Takahashi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer&descSize=18&descAlignY=58" alt="header" />
-</p>
-
-<p align="center">
   Building web apps &amp; internal tools &nbsp;·&nbsp;
   <b>Next.js</b> &nbsp;·&nbsp; <b>TypeScript</b> &nbsp;·&nbsp; <b>Supabase</b> &nbsp;·&nbsp; <b>Python</b>
 </p>
