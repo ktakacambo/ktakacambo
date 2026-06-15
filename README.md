@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktakacambo&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktakacambo&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contributions" alt="Activity Graph" />
 </p>
